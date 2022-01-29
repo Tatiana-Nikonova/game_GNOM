@@ -4,5 +4,5 @@
 
 
 
-Ссылка на игру  
+Ссылка на игру  https://tatiana-nikonova.github.io/game_GNOM/
 
